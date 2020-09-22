@@ -1,0 +1,8 @@
+************     Caricamento dati dalla Sede                            ************ô¼ô
+************     Del: 08/12/2002                                        ************ô¼ô
+************     Iniziata Alle: 16.34.17                                ************ô¼ô
+************                                                            ************ô¼ô
+File 20021208144441.sed Non ricevuto Correttamente
+File 20021208144506.sed Non ricevuto Correttamente
+File 200212081447.sed Non ricevuto Correttamente
+File 200210020654.Sed OK
